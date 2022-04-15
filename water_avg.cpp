@@ -12,7 +12,7 @@ int main()
    liters=ounces*0.0296;
    
    cout<<ounces<<endl;
-   cout<<"Water avg you need is "<<int(liters)<<" liters\n";
+   cout<<"Water avg you need is "<<int(liters)<<" liters\n\n\n";
    
    
 
